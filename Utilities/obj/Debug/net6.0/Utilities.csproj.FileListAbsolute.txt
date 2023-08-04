@@ -1,0 +1,15 @@
+C:\Users\mohammad.faisal\Desktop\L&D\C#\C# Masterclass\EnumerableExtentions\bin\Debug\net6.0\Utilities.exe
+C:\Users\mohammad.faisal\Desktop\L&D\C#\C# Masterclass\EnumerableExtentions\bin\Debug\net6.0\Utilities.deps.json
+C:\Users\mohammad.faisal\Desktop\L&D\C#\C# Masterclass\EnumerableExtentions\bin\Debug\net6.0\Utilities.runtimeconfig.json
+C:\Users\mohammad.faisal\Desktop\L&D\C#\C# Masterclass\EnumerableExtentions\bin\Debug\net6.0\Utilities.dll
+C:\Users\mohammad.faisal\Desktop\L&D\C#\C# Masterclass\EnumerableExtentions\bin\Debug\net6.0\Utilities.pdb
+C:\Users\mohammad.faisal\Desktop\L&D\C#\C# Masterclass\EnumerableExtentions\obj\Debug\net6.0\Utilities.csproj.AssemblyReference.cache
+C:\Users\mohammad.faisal\Desktop\L&D\C#\C# Masterclass\EnumerableExtentions\obj\Debug\net6.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohammad.faisal\Desktop\L&D\C#\C# Masterclass\EnumerableExtentions\obj\Debug\net6.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\mohammad.faisal\Desktop\L&D\C#\C# Masterclass\EnumerableExtentions\obj\Debug\net6.0\Utilities.AssemblyInfo.cs
+C:\Users\mohammad.faisal\Desktop\L&D\C#\C# Masterclass\EnumerableExtentions\obj\Debug\net6.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\mohammad.faisal\Desktop\L&D\C#\C# Masterclass\EnumerableExtentions\obj\Debug\net6.0\Utilities.dll
+C:\Users\mohammad.faisal\Desktop\L&D\C#\C# Masterclass\EnumerableExtentions\obj\Debug\net6.0\refint\Utilities.dll
+C:\Users\mohammad.faisal\Desktop\L&D\C#\C# Masterclass\EnumerableExtentions\obj\Debug\net6.0\Utilities.pdb
+C:\Users\mohammad.faisal\Desktop\L&D\C#\C# Masterclass\EnumerableExtentions\obj\Debug\net6.0\Utilities.genruntimeconfig.cache
+C:\Users\mohammad.faisal\Desktop\L&D\C#\C# Masterclass\EnumerableExtentions\obj\Debug\net6.0\ref\Utilities.dll
